@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'file:///C:/Users/fabio/AndroidStudioProjects/carros/lib/utils/sql/db_helper.dart';
-import 'file:///C:/Users/fabio/AndroidStudioProjects/carros/lib/utils/sql/entity.dart';
+import 'package:carros/utils/sql/db_helper.dart';
+import 'package:carros/utils/sql/entity.dart';
 import 'package:sqflite/sqflite.dart';
 
 // Data Access Object
