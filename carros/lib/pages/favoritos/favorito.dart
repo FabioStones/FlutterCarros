@@ -1,4 +1,4 @@
-import 'file:///C:/Users/fabio/AndroidStudioProjects/carros/lib/utils/sql/entity.dart';
+import 'package:carros/utils/sql/entity.dart';
 import 'package:carros/pages/carro/carro.dart';
 
 class Favorito extends Entity{
