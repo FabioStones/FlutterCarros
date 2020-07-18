@@ -1,4 +1,4 @@
-import 'file:///C:/Users/fabio/AndroidStudioProjects/carros/lib/utils/sql/base_dao.dart';
+import 'package:carros/utils/sql/base_dao.dart';
 
 import 'favorito.dart';
 
