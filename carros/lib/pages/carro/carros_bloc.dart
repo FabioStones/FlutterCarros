@@ -4,7 +4,7 @@ import 'dart:async';
 import 'package:carros/utils/simple_bloc.dart';
 import 'package:carros/pages/carro/carro.dart';
 import 'package:carros/pages/carro/carros_api.dart';
-import 'file:///C:/Users/fabio/AndroidStudioProjects/carros/lib/pages/carro/carro_dao.dart';
+import 'package:carros/pages/carro/carro_dao.dart';
 import 'package:carros/utils/network.dart';
 
 //Conceito BLoC >> Business Logic Component.
