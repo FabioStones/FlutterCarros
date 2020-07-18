@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'file:///C:/Users/fabio/AndroidStudioProjects/carros/lib/utils/sql/entity.dart';
+import 'package:carros/utils/sql/entity.dart';
 
 class Carro extends Entity{
   int id;
